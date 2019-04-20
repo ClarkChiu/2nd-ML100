@@ -8,3 +8,4 @@
 3. [Day 3](./questions/D3.md)
 4. [Day 4](./questions/D4.md)
 5. [Day 5](./questions/D5.md)
+6. [Day 6](./questions/D6.md)
