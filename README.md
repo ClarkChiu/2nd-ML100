@@ -11,3 +11,4 @@
 6. [Day 6](./questions/D6.md)
 7. [Day 7](./questions/D7.md)
 8. [Day 8](./questions/D8.md)
+9. [Day 9](./questions/D9.md)
