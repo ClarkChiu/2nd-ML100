@@ -23,4 +23,5 @@
 019. [Day 019](./questions/D19.md)
 020. [Day 020](./questions/D20.md)
 021. [Day 021](./questions/D21.md)
+022. [Day 022](./questions/D22.md)
 
