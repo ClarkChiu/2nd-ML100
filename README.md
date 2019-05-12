@@ -25,3 +25,4 @@
 021. [Day 021](./questions/D21.md)
 022. [Day 022](./questions/D22.md)
 023. [Day 023](./questions/D23.md)
+024. [Day 024](./questions/D24.md)
