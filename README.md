@@ -29,3 +29,4 @@
 025. [Day 025](./questions/D25.md)
 026. [Day 026](./questions/D26.md)
 027. [Day 027](./questions/D27.md)
+028. [Day 028](./questions/D28.md)
