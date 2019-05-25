@@ -33,3 +33,4 @@
 029. [Day 029](./questions/D29.md)
 030. [Day 030](./questions/D30.md)
 031. [Day 031](./questions/D31.md)
+032. [Day 032](./questions/D32.md)
