@@ -37,3 +37,4 @@
 033. [Day 033](./questions/D33.md)
 034. [Day 034](./questions/D34.md)
 035. [Day 035](./questions/D35.md)
+036. [Day 036](./questions/D36.md)
