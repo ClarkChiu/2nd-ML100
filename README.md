@@ -41,3 +41,4 @@
 037. [Day 037](./questions/D37.md)
 038. [Day 038](./questions/D38.md)
 039. [Day 039](./questions/D39.md)
+040. [Day 040](./questions/D40.md)
