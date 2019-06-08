@@ -44,3 +44,4 @@
 040. [Day 040](./questions/D040.md)
 041. [Day 041](./questions/D041.md)
 042. [Day 042](./questions/D042.md)
+043. [Day 043](./questions/D043.md)
