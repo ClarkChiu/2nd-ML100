@@ -51,3 +51,4 @@
 047. [Day 047](./questions/D047.md)
 048. [Day 048](./questions/D048.md)
 049. [Day 049](./questions/D049.md)
+050. [Day 050](./questions/D050.md)
