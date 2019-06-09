@@ -48,3 +48,4 @@
 044. [Day 044](./questions/D044.md)
 045. Day 045 (閱讀參考資料)
 046. [Day 046](./questions/D046.md)
+047. [Day 047](./questions/D047.md)
