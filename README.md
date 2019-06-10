@@ -46,9 +46,12 @@
 042. [Day 042](./questions/D042.md)
 043. [Day 043](./questions/D043.md)
 044. [Day 044](./questions/D044.md)
-045. Day 045 (閱讀參考資料)
+045. 閱讀參考資料
 046. [Day 046](./questions/D046.md)
 047. [Day 047](./questions/D047.md)
 048. [Day 048](./questions/D048.md)
 049. [Day 049](./questions/D049.md)
 050. [Day 050](./questions/D050.md)
+051. 期中考
+052. 期中考
+053. 期中考
